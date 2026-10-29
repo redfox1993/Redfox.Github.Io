@@ -1,8 +1,9 @@
 {
-  "source_commit": "550ce0f34314888cde8e457c433b0280e23c8482",
-  "tested_workflow_run": 40753384105,
-  "tests": 103,
+  "source_commit": "9694f6f7efaf860ecda0bcba42dd505c2614fadf",
+  "tested_workflow_run": 40955449918,
+  "tests": 104,
   "character_count": 153,
-  "html_git_blob": "cb0d5924e1d4a215a7b96309ff284e4e307943de",
-  "scope": "Attribute preparation and controlled Tanaka buff fixture; no complete match simulation."
+  "buff_catalog_count": 8824,
+  "html_git_blob": "a660465fbbe29666b7f4807521f0a84a76be801d",
+  "scope": "Attribute preparation, controlled Tanaka fixture and manual multi-buff state. Manual effects are not applied to attributes; no complete match simulation."
 }
